@@ -8,7 +8,7 @@ CREATE TABLE books (
   price integer,
   rating integer,
   stock_count integer
-  );
+  , pubblisher text, publisher TEXT, pages_number INTEGER);
 CREATE TABLE demo (ID integer primary key, Name varchar(20), Hint text );
  
 -- INDEX
