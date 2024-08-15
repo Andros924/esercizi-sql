@@ -1,0 +1,1 @@
+GRANT SELECT,INSERT, SELECT ON books TO  martin@localhost ;
